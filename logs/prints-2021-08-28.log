@@ -1,0 +1,7 @@
+11:50:39.317 [main] INFO  Config.SeleniumBase - Check the Driver is NULL or Not
+11:50:39.321 [main] INFO  Config.DriverManager - Lunching chrome
+11:52:00.333 [main] INFO  Config.SeleniumBase - Execution Started
+11:52:00.338 [main] INFO  Config.SeleniumBase - Instantiation the CommonConstants
+11:52:00.340 [main] INFO  Config.SeleniumBase - Loading the Properties File
+11:52:00.340 [main] INFO  Config.SeleniumBase - Check the Driver is NULL or Not
+11:52:00.341 [main] INFO  Config.DriverManager - Lunching chrome
